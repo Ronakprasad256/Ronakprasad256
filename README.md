@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ronak prasad
 - 👀 I’m interested in MAKING PHONE & WEB APPLICATION
-- 🌱 I’m currently learning MERN FULL STACK
-- 💞️ I’m looking to collaborate on ...
+- 🌱 MERN FULL STACK Developer
+- 💞️ I’m looking to collaborate on JavaScript framework
 - 📫 How to reach me -ronakpd07@gmail.com
 
 <!---
