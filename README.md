@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ronak prasad
+- 👋 Hi, I’m @Ronak Prasad
 - 👀 I’m interested in MAKING PHONE & WEB APPLICATION
 - 🌱 MERN FULL STACK Developer
 - 💞️ I’m looking to collaborate on JavaScript framework
