@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/ronakprasad" target="blank"><img src="https://img.shields.io/twitter/follow/ronakprasad?logo=twitter&style=for-the-badge" alt="ronakprasad" /></a> </p>
 
-- 🔭 I’m currently working on **EngageUp**
+- 🔭 I’m currently working on **DM_DIGITALS**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **DSA**
 
 - 📫 How to reach me **ronakpd07@gmail.com**
 
