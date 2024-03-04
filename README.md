@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/ronakprasad" target="blank"><img src="https://img.shields.io/twitter/follow/ronakprasad?logo=twitter&style=for-the-badge" alt="ronakprasad" /></a> </p>
 
-- 🔭 I’m currently working on **DM_DIGITALS**
+- 🔭 I’m currently working on **MRPL**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA & Mendix**
 
 - 📫 How to reach me **ronakpd07@gmail.com**
 
