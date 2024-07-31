@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at **MRPL**
 
-- 🌱 I’m currently learning **DSA & Mendix**
+- 🌱 I’m currently learning **DSA JS & Mendix**
 
 - 📫 How to reach me **ronakpd07@gmail.com**
 
