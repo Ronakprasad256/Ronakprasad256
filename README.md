@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ronakprasad" target="blank"><img src="https://img.shields.io/twitter/follow/ronakprasad?logo=twitter&style=for-the-badge" alt="ronakprasad" /></a> </p>
 
-- 🔭 I’m currently working at **MRPL**
+- 🔭 I’m currently working at **Doo Miles**
 
 - 🌱 I’m currently learning **DSA JS & Mendix**
 
